@@ -75,7 +75,7 @@ yelp_dataset_analysis/
 ### 🏢 `yelp_business_final` Table
 ![Business Table Screenshot](Screenshots/business_table_screenshot.png)
 
-### 🧪 Task 1: Top 10 Users by Review Count
+### 🧪 Task 1: Finding number of businesses in each category
 ![Task 1 Solution Screenshot](Screenshots/task_1_solution_screenshot.png)
 
 ---
