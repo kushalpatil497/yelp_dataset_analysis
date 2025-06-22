@@ -57,34 +57,7 @@ yelp_dataset_analysis/
 - Real-world SQL tasks to practise analytical querying
 - Integration of Snowflake with AWS S3 and Python preprocessing
 
----
 
-## 📺 Tutorial Reference
-
-**By Ankit Bansal**
-
-- 🎥 [YouTube Playlist (Video 5)](https://www.youtube.com/watch?v=oXLxbk5USFg&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth&index=5)  
-- 💻 [GitHub Repo](https://github.com/ankitbansal6/end_to_end_data_analytics_project/tree/main)
-
----
-
-## 🔗 Dataset Source
-
-- **Yelp Open Dataset**  
-  🔗 [https://business.yelp.com/data/resources/open-dataset/](https://business.yelp.com/data/resources/open-dataset/)
-
----
-
-## 👤 Author
-
-**Kushal Patil**  
-Feel free to fork this repository, raise issues, or suggest improvements.
-
----
-
-## 📃 License
-
-This project is intended for educational and experimental purposes only. Attribution is maintained to the original dataset provider (Yelp) and the referenced tutorial author (Ankit Bansal).
 
 
 # 📊 Yelp Dataset Analysis Using Snowflake & Python
@@ -169,10 +142,59 @@ yelp_dataset_analysis/
 
 ---
 
+## 📺 Tutorial Reference
+
+**By Ankit Bansal**
+
+- 🎥 [YouTube Playlist (Video 5)](https://www.youtube.com/watch?v=oXLxbk5USFg&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth&index=5)  
+- 💻 [GitHub Repo](https://github.com/ankitbansal6/end_to_end_data_analytics_project/tree/main)
+
+---
+
+## 🔗 Dataset Source
+
+- **Yelp Open Dataset**  
+  🔗 [https://business.yelp.com/data/resources/open-dataset/](https://business.yelp.com/data/resources/open-dataset/)
+
+---
+
+## 👤 Author
+
+**Kushal Patil**  
+Feel free to fork this repository, raise issues, or suggest improvements.
+
+---
+
+## 📃 License
+
+This project is intended for educational and experimental purposes only. Attribution is maintained to the original dataset provider (Yelp) and the referenced tutorial author (Ankit Bansal).
+
+---
+
 ## ⚙️ How to Run the Python Notebook
 
-1. Clone the repository:
+Follow these steps to run the `Split_Files.ipynb` notebook locally:
+
+###1. Clone the Repository
    ```bash
    git clone https://github.com/kushalpatil497/yelp_dataset_analysis.git
    cd yelp_dataset_analysis
+  
+###2. (Optional but Recommended) Create a Virtual Environment
+
+    *🪟 On Windows:*
+    ```bash
+    python -m venv venv
+    venv\Scripts\activate
+
+    *🐧 On macOS/Linux:*
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+###3. Install Required Packages
+    ```bash
+    pip install -r requirements.txt
+###4. Launch the Notebook
+    ```bash
+    jupyter notebook Split_Files.ipynb
 
