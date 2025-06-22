@@ -84,7 +84,7 @@ yelp_dataset_analysis/
 
 **By Ankit Bansal**
 
-- 🎥 [YouTube Playlist (Video 5)](https://www.youtube.com/watch?v=oXLxbk5USFg&list=PLBTZqjSKn0Ie0FvR3_ass_iTIqYV_CAth&index=5)  
+- 🎥 [YouTube Video](https://www.youtube.com/watch?v=oXLxbk5USFg)  
 - 💻 [GitHub Repo](https://github.com/ankitbansal6/end_to_end_data_analytics_project/tree/main)
 
 ---
