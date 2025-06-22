@@ -32,7 +32,7 @@ yelp_dataset_analysis/
 │   ├── 4. Create_Review_Table.sql
 │   ├── 5. Create_Business_Table.sql
 │   ├── 6. DA_Tasks.txt
-│   └── 6. DA_Tasks_with_solutions.sql
+│   └── 7. DA_Tasks_with_solutions.sql
 ├── screenshots/
 │   ├── review_table_screenshot.png
 │   ├── business_table_screenshot.png
@@ -53,7 +53,7 @@ yelp_dataset_analysis/
 | `4. Create_Review_Table.sql`     | Creates `yelp_reviews_final` by extracting structured fields and applying sentiment labels. |
 | `5. Create_Business_Table.sql`   | Creates `yelp_business_final` from the raw business data, extracting name, city, star ratings, and categories. |
 | `6. DA_Tasks.txt`                | A list of 10 data analysis tasks (e.g. top users, five-star businesses, sentiment breakdown) to be solved using SQL. |
-| `6. DA_Tasks_with_solutions.sql` | Contains SQL solutions to the tasks above, using advanced Snowflake SQL features like `COUNT_IF`, `LISTAGG`, `ROW_NUMBER`, and `QUALIFY`. |
+| `7. DA_Tasks_with_solutions.sql` | Contains SQL solutions to the tasks above, using advanced Snowflake SQL features like `COUNT_IF`, `LISTAGG`, `ROW_NUMBER`, and `QUALIFY`. |
 
 ---
 
