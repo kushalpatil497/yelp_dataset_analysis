@@ -141,7 +141,7 @@ ORDER BY business_name, business_id
 
 
 --5. Find the month with the highest number of reviews.
---Considering only month for the highest number of reviews over the years.
+--(by me)Considering only month for the highest number of reviews over the years.
 SELECT
     MONTHNAME(review_date) AS review_month
     ,COUNT(review_text) reviews_in_month
@@ -152,7 +152,7 @@ GROUP BY 1
 ORDER BY 2 DESC
 LIMIT 1
 ;
---Considering the month for the highest number of reviews every year.
+--(by me)Considering the month for the highest number of reviews every year.
 SELECT
     YEAR(review_date) AS review_year
     ,MONTHNAME(review_date) AS review_month
