@@ -1,4 +1,7 @@
 # 📊 Yelp Dataset Analysis Using Snowflake & Python
+![Made with Snowflake](https://img.shields.io/badge/Made%20with-Snowflake-blue?style=for-the-badge&logo=snowflake)
+![Built with Python](https://img.shields.io/badge/Built%20with-Python-yellow?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 This project demonstrates how to process and analyse the Yelp Open Dataset using Python, AWS S3, and Snowflake SQL. It includes structured table creation from JSON, sentiment analysis via Python UDFs, business and review analytics, and SQL-based data tasks.
 
