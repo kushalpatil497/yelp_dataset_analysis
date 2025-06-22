@@ -1,0 +1,3 @@
+textblob
+jupyter
+pandas
