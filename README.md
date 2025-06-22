@@ -89,6 +89,7 @@ This project is intended for educational and experimental purposes only. Attribu
 
 # 📊 Yelp Dataset Analysis Using Snowflake & Python
 
+![Uses AWS S3](https://img.shields.io/badge/Uses-AWS%20S3-orange?style=for-the-badge&logo=amazon-aws)
 ![Made with Snowflake](https://img.shields.io/badge/Made%20with-Snowflake-blue?style=for-the-badge&logo=snowflake)
 ![Built with Python](https://img.shields.io/badge/Built%20with-Python-yellow?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
