@@ -16,7 +16,7 @@ This project demonstrates how to process and analyse the Yelp Open Dataset using
 ---
 
 ## 🗂️ Project Structure
-
+<pre>
 yelp_dataset_analysis/
 ├── Split_Files.ipynb # Python notebook to split large JSON files
 ├── Snowflake Queries/ # All SQL and task files for Snowflake
@@ -28,7 +28,7 @@ yelp_dataset_analysis/
 │ ├── 6. DA_Tasks.txt
 │ └── 6. DA_Tasks_with_solutions.sql
 ├── README.md
-
+</pre>
 
 ---
 
