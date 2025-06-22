@@ -10,7 +10,7 @@ This project demonstrates how to process and analyse the Yelp Open Dataset using
 2. Use **`Split_Files.ipynb`** (a Jupyter notebook in Python) to split large JSON files into smaller parts.
 3. **Upload** the split files to your AWS **S3 bucket**.
 4. Create an **IAM User** and generate the **Access Key ID** and **Secret Access Key**.
-5. Execute the SQL scripts provided in the **`Snowflake Queries/`** folder to set up your database in Snowflake.
+5. Execute the SQL scripts provided in the **`Snowflake Queries`** folder to set up your database in Snowflake.
 6. Perform data analysis using queries from the task file.
 
 ---
